@@ -99,7 +99,7 @@ def main():
 		print "... and more"
 	
 	if count == 0:
-		print "Seems like you have a day off."
+		print "It seems like you have a day off."
 
 	return 0
 
